@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <br />
 
 
-![Welvis's github stats](https://github-readme-stats.vercel.app/api?username=christianmoliveira&count_private=true&show_icons=true&title_color=fff&icon_color=9f9f9f&text_color=9f9f9f&bg_color=151515)
-
-<h5>Find me at:</h5>
 ### I am 22 years old, I am studying computer science at the State University of Santa Cruz (UESC). I am a self-taught Full-Stack developer from Brazil.
 <br />
 
