@@ -92,8 +92,8 @@ Here are some ideas to get you started:
          <img height="64px" src="https://cdn.svgporn.com/logos/opengl.svg">
        </td>
        <td width="25%" align="center">
-         <span>𝗡𝗼𝗱𝗲 𝗝𝗦</span><br><br><br>
-         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+         <span>𝗡𝗼𝗱𝗲.𝗷𝘀</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
        </td>
        <td width="25%" align="center">
          <span>𝗡𝗣𝗠</span><br><br><br>
