@@ -82,6 +82,20 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
     </tr>
+    <tr valign="top">       
+       <td width="25%" align="center">
+         <span>𝗖</span><br><br><br>
+         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-  The_C_Programming_Language_logo.svg.png">
+       </td>
+       <td width="25%" align="center">
+         <span>𝗖++</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+       </td>
+       <td width="25%" align="center">
+         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+       </td>
+     </tr>
   </tbody>
 </table>
 
