@@ -85,6 +85,11 @@ Here are some ideas to get you started:
         <span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">
       </td>
+      </td>
+      <td width="25%" align="center">
+        <span>𝙔𝙖𝙧𝙣</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/yarn.svg">
+      </td>
     </tr>
     <tr valign="top">
        <td width="25%" align="center">
