@@ -81,7 +81,29 @@ Here are some ideas to get you started:
         <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗛𝗲𝗿𝗼𝗸𝘂</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">
+      </td>
     </tr>
+    <tr valign="top">
+       <td width="25%" align="center">
+         <span>𝗢𝗽𝗲𝗻𝗚𝗟</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/opengl.svg">
+       </td>
+       <td width="25%" align="center">
+         <span>𝗡𝗼𝗱𝗲 𝗝𝗦</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+       </td>
+       <td width="25%" align="center">
+         <span>𝗡𝗣𝗠</span><br><br><br>
+         <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
+       </td>
+       <td width="25%" align="center">
+           <span>𝗙𝗶𝗴𝗺𝗮</span><br><br><br>
+           <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+         </td>
+       </tr>
     <tr valign="top">       
        <td width="25%" align="center">
          <span>𝗖</span><br><br><br>
