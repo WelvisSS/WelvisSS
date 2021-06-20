@@ -1,4 +1,4 @@
-<br>
+
 ## I am 22 years old, I am studying computer science at the State University of Santa Cruz (UESC). I am a self-taught Full-Stack developer from Brazil.
 <br />
 
