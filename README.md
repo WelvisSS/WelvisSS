@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### I am 22 years old, I am studying computer science at the State University of Santa Cruz (UESC). I am a self-taught Full-Stack developer from Brazil.
-<br />
+<br align="center" />
 
 ![Welvis's github stats](https://github-readme-stats.vercel.app/api?username=WelvisSS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
