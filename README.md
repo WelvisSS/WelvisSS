@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<h5>Find me at:</h5>
-
 <br />
 
 *************
