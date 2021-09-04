@@ -25,7 +25,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
+        <span>𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
