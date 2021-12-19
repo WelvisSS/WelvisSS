@@ -38,7 +38,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <img height="64px" src="https://icons-for-free.com/iconfiles/png/512/mongodb+original-1324760553088442944.png">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀</span><br><br><br>
