@@ -23,11 +23,7 @@
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
+      </td>      
       <td width="25%" align="center">
          <span>𝗡𝗼𝗱𝗲.𝗷𝘀</span><br><br><br>
          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
@@ -36,6 +32,18 @@
          <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
          <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>     
+      <td width="25%" align="center">
+        <span>𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
     </tr>    
   </tbody>
 </table>
