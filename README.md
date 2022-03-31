@@ -44,6 +44,10 @@
         <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗙𝗶𝗴𝗺𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
     </tr>    
   </tbody>
 </table>
