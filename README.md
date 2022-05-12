@@ -23,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 *************
-<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br />
