@@ -26,7 +26,8 @@
 
 *************
 
-<br />
+## ⚙️ &nbsp;GitHub Analytics
+<br>
 <br />
 <div align="center" >
 
