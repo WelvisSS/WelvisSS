@@ -1,14 +1,6 @@
 
 ### Hi, my name is Welvis, I'm 23 years old and I study computer science at the State University of Santa Cruz (UESC). My biggest goal is not just to be a great developer, but someone who motivates people.
 <br />
-<br />
-<div align="center" >
-
-[![Welvis's github stats](https://github-readme-stats.vercel.app/api?username=WelvisSS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-</div>
-
-<br />
 
 *************
 
@@ -33,6 +25,14 @@
 <br />
 
 *************
+
+<br />
+<br />
+<div align="center" >
+
+[![Welvis's github stats](https://github-readme-stats.vercel.app/api?username=WelvisSS&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
 
 <br />
 
