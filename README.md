@@ -1,5 +1,5 @@
 
-### Hi, my name is Welvis, I'm 23 years old and I study computer science at the State University of Santa Cruz (UESC). I am a self-taught Full-Stack developer in most cases. I entered this area in 2018 and I feel increasingly excited to grow and contribute in this complex and bright world. My biggest goal is not just to be a great developer, but someone who motivates people.
+### Hi, my name is Welvis, I'm 23 years old and I study computer science at the State University of Santa Cruz (UESC). My biggest goal is not just to be a great developer, but someone who motivates people.
 <br />
 <br />
 <div align="center" >
