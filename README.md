@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql&logoColor=1572B6)&nbsp;
 
 *************
 
