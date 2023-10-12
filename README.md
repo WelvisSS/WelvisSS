@@ -1,5 +1,5 @@
 
-### Hi, my name is Welvis, I'm 24 years old and I study computer science at the State University of Santa Cruz (UESC). My biggest goal is not just to be a great developer, but someone who motivates people.
+### Hello, my name is Welvis, I have a degree in Computer Science from the State University of Santa Cruz (UESC). I am currently a flutter developer at NUTRHOSP.
 <br />
 
 *************
