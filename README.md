@@ -1,5 +1,5 @@
 
-### Hello, my name is Welvis, I have a degree in Computer Science from the State University of Santa Cruz (UESC). I am currently a flutter developer at NUTRHOSP.
+### Hello, my name is Welvis, I have a degree in Computer Science from the State University of Santa Cruz (UESC). Currently, I am a Flutter developer.
 <br />
 
 *************
